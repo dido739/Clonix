@@ -1,2 +1,2 @@
-# clonix
+# Clonix
 Very minimal Reddit replica
