@@ -1,29 +1,29 @@
 # Clonix
-Clonix is a very minimal Reddit replica.
-Clonix is licensed under the GPL v3.0.
-Clonix is open for commits, changes, security patches and etc.
+Clonix е минималистична реплика на Reddit.
+Clonix се разпространява под GPL v3.0 лиценз.
+Clonix е отворен за промени.
 
-## Functionalities
-- Login and Register users
-- View posts
-- Create posts
-- Search for posts
-- Vote on posts
+## Функционалности
+- Регистриране и Влизане на потребители
+- Преглеждане на постове
+- Създаване на постове
+- Търсене на постове
+- Гласуване на постове
   
-## Used technologies
+## Използвани технологии
 - PHP
 - MySQL (MariaDB)
 - HTML
 - CSS
   
-**NOTE: All tools were used in XAMPP**
+**NOTE: Всички инструменти са използвани в XAMPP**
 
 ## TO-DO
-- Add comments
-- Fix problems with UI
-- Make executable coming with Apache, MySQL, PHP by modifying XAMPP instalation for easier install
-- Create Docker container for easier install
+- Добавяне ня коментари
+- Поправяне на проблеми с интерфейса
+- Направва на изпълним файл, идващ с Apache, MySQL, PHP, чрез промяна на съществуваща инсталация на XAMPP за по-лесно инсталиране
+- Създаване на Docker контейнер за по-лесно инсталиране
 
-**NOTE: Version in Bulgarian is available in branch BG**
+**NOTE: Version in English is available in branch [main](https://github.com/dido739/Clonix/tree/main)**
 
-**I'm looking for contributors**
+**Търся сътрудници**
