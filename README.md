@@ -24,6 +24,6 @@ Clonix is open for commits, changes, security patches and etc.
 - Make executable coming with Apache, MySQL, PHP by modifying XAMPP instalation for easier install
 - Create Docker container for easier install
 
-**NOTE: Version in Bulgarian is available in branch BG**
+**NOTE: Version in Bulgarian is available in branch [BG](https://github.com/dido739/Clonix/tree/BG)**
 
 **I'm looking for contributors**
