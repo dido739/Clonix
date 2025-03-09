@@ -19,6 +19,7 @@ if (session_status() == PHP_SESSION_NONE) {
             <li><a href="search.php">🔍 Search</a></li>
             <?php if(isset($_SESSION['username'])): ?>
                 <li><a href="create_post.php">📝 New post</a></li>
+                <li><a href="my_posts.php">📚 My posts</a></li>
                 <li><a href="logout.php">🚪 Exit</a></li>
                 <li>👤 <?php echo htmlspecialchars($_SESSION['username']); ?></li>
             <?php else: ?>
