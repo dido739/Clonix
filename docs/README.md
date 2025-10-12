@@ -27,3 +27,4 @@ Clonix is open for commits, changes, security patches and etc.
 **NOTE: Version in Bulgarian is available in branch [BG](https://github.com/dido739/Clonix/tree/BG)**
 
 **I'm looking for contributors**
+
